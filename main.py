@@ -11,6 +11,10 @@ app.add_middleware(
     CORSMiddleware, allow_origins=origins, allow_methods=["*"], allow_headers=["*"]
 )
 
+@app.get("/")
+async def root():
+    return {"message": "AIT Sales - Test API v0.1"}
+
 
 @app.get("/products")
 async def list_products():
