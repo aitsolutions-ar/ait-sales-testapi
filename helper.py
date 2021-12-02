@@ -1,0 +1,58 @@
+products = [
+    {
+        "_id": "61a917ed9275ba3e56eba671",
+        "name": "Caesar Salad",
+        "description": "Est pariatur pariatur tempor minim est velit aute elit voluptate.",
+        "image": "https://via.placeholder.com/150?text=Caesar Salad",
+        "price": "$178.91",
+    },
+    {
+        "_id": "61a917ed3b91c1fd79f432c3",
+        "name": "Greek Salad",
+        "description": "Deserunt qui pariatur qui nisi cillum id est incididunt aliquip dolore incididunt.",
+        "image": "https://via.placeholder.com/150?text=Greek Salad",
+        "price": "$638.04",
+    },
+    {
+        "_id": "61a917eda7843136564629c2",
+        "name": "Caesar Salad",
+        "description": "Aliquip voluptate adipisicing veniam non excepteur id.",
+        "image": "https://via.placeholder.com/150?text=Caesar Salad",
+        "price": "$498.81",
+    },
+    {
+        "_id": "61a917ed8955cb259bde7bde",
+        "name": "French Fries",
+        "description": "Ea sit sunt deserunt sit veniam quis aliquip proident excepteur.",
+        "image": "https://via.placeholder.com/150?text=French Fries",
+        "price": "$451.44",
+    },
+    {
+        "_id": "61a917ed8a3298f608331284",
+        "name": "Caesar Salad",
+        "description": "Do incididunt sunt amet cupidatat exercitation aliqua fugiat irure quis.",
+        "image": "https://via.placeholder.com/150?text=Caesar Salad",
+        "price": "$461.45",
+    },
+    {
+        "_id": "61a917ed01488a1e62299bd1",
+        "name": "Caesar Salad",
+        "description": "Aute nostrud eiusmod amet quis velit duis mollit ex officia.",
+        "image": "https://via.placeholder.com/150?text=Caesar Salad",
+        "price": "$635.28",
+    },
+    {
+        "_id": "61a917ed00d4d6ed372e7a92",
+        "name": "Caesar Salad",
+        "description": "Voluptate reprehenderit exercitation ipsum non proident veniam consequat irure.",
+        "image": "https://via.placeholder.com/150?text=Caesar Salad",
+        "price": "$793.45",
+    },
+    {
+        "_id": "61a917ed5e61fd5a943db001",
+        "name": "Onion Rings",
+        "description": "Nisi ea non do irure incididunt dolor exercitation cillum elit est ullamco sit.",
+        "image": "https://via.placeholder.com/150?text=Onion Rings",
+        "price": "$491.69",
+    },
+]
